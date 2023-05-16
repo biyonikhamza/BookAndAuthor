@@ -1,6 +1,7 @@
 [
     {
         "bookName" : "Homo Sapiens",
+        "author" : "Yuval Noah Harari",
         "bookPage" : "200",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltsiz"
@@ -8,6 +9,7 @@
     
     {
         "bookName" : "Plasebo",
+        "author" : "Dr. Joe Dispenza",
         "bookPage" : "300",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltli"
@@ -15,6 +17,7 @@
     
     {
         "bookName" : "Yanılmak Güzeldir",
+        "author" : "Wendelin Van Drannen",
         "bookPage" : "150",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltsiz"
@@ -22,6 +25,7 @@
     
     {
         "bookName" : "Benim Adım Messi",
+        "author" : "Michael Part",
         "bookPage" : "350",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltsiz"
@@ -29,6 +33,7 @@
     
     {
         "bookName" : "Dorian Grayin Portresi",
+        "author" : "Oscar Wilde",
         "bookPage" : "1500",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltsiz" 
