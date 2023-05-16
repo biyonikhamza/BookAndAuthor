@@ -1,34 +1,29 @@
 [
     {
-        "bookName" : "Homo Sapiens",
         "bookPage" : "200",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltsiz"
     },
     
     {
-        "bookName" : "Plasebo",
         "bookPage" : "300",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltli"
     },
     
     {
-        "bookName" : "Yanılmak Güzeldir",
         "bookPage" : "150",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltsiz"
     },
     
     {
-        "bookName" : "Benim Adım Messi",
         "bookPage" : "350",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltsiz"
     },
     
     {
-        "bookName" : "Dorian Grayin Portresi",
         "bookPage" : "1500",
         "about" : "Sonra doldurulacak",
         "bookSkin" : "Ciltsiz" 
