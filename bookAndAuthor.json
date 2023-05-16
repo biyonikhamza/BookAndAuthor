@@ -2,30 +2,30 @@
     {
         "book" : "21. Yüzyıl için 21 Ders",
         "author" : "Yuval Noah Harari",
-        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookAndAuthor/main/images/IMG_20230515_102147.jpg"
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
     },
     
     {
         "book" : "Plasebo",
         "author" : "Dr. Joe Dispenza",
-        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookAndAuthor/main/images/IMG_20230515_102204.jpg"   
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102204.jpg"   
     },
     
     {
         "book" : "Yanılmak Güzeldir",
         "author" : "Wendelin Van Drannen",
-        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookAndAuthor/main/images/IMG_20230515_102228.jpg"
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102228.jpg"
     },
     
     {
         "book" : "Benim Adım Messi",
         "author" : "Michael Part",
-        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookAndAuthor/main/images/IMG_20230515_102243.jpg"
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102243.jpg"
     },
     
     {
         "book" : "Dorian Gray'in Portresi",
         "author" : "Oscar Wilde",
-        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookAndAuthor/main/images/IMG_20230515_102302.jpg"
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102302.jpg"
     }
 ]
