@@ -27,5 +27,15 @@
         "book" : "Dorian Gray'in Portresi",
         "author" : "Oscar Wilde",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102302.jpg"
+    },
+    {
+        "book" : "Homo Deus",
+        "author" : "Yuval Noah Harari",
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230517_094401.jpg"
+    },
+    {
+        "book" : "Homo Sapiens",
+        "author" : "Yuval Noah Harari",
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230517_094433.jpg"
     }
 ]
