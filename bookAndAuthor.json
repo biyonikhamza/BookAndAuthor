@@ -1,18 +1,34 @@
 [
+     {
+        "book" : "Her Şiir Bir Vaiz",
+        "author" : "Kerem Önder",
+        "bookPage" : "157",
+        "about" : "Kim olursan ol , bu dünyada yaşayan , EN BÜYÜK olanın hilafetini taşıyan. Rakamların ve makamların ötesinde ulaşılmaya çalışılan, En uzun yolun yolcusu edilmişse eğer; Meleklerin bile imrendiği bir yere gitmeli insan... Herkes 'Biliyorum' diyebilir. Ama herkes , ' Yapıyorum' diyemez. Yapmayı istemeyi bırak ve yap artık!"
+        "bookSkin" : "Ciltsiz",
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
+    },
+    {
+        "book" : "Bedava Nasihat ister misin?",
+        "author" : "Kerem Önder",
+        "bookPage" : "176",
+        "about" : "Işıklar açılınca hamam böcekleri kaçar, fareler kaçar. Ama insanlar kalır. Çünkü aydınlıkta güvende hissederler. İlim ışığı da hayvan tabiatlı insanları ortamdan kaçırmak için bire bir ilaçtır. Oysa aynı ışık , insalığını kaybetmemiş bireylerin kalpleri'ndeki sakinet ve güvenini arttırır..."
+        "bookSkin" : "Ciltsiz",
+        "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
+    },
     {
         "book" : "21. Yüzyıl için 21 Ders",
         "author" : "Yuval Noah Harari",
-        "bookPage" : "200",
-        "about" : "Sonra doldurulacak",
-        "bookSkin" : "Ciltsiz",
+        "bookPage" : "287",
+        "about" : "21. Yüzyılın en çok ses getiren düşünürlerinen Yuval Noah Harari , ilk kitabı Sapiens'te insanın nasıl önemsiz bir hayvandan dünyanın efendisine dönüştüğünü , ikinci kitabı homo deus'ta çarpıcı öngerüleriyle insanlığın ölümsüzlük , mutluluk ve tanrısallık peşindeki yolculuğunu ele almıştı.21.Yüzyıl için 21 ders ise yüzyılımızın eşi ve benzeri görülmemiş teknolojik ve ekonomik kırılmalarıyla  ve yaşanan aralıksız değişimlerle başa çıkabilmek için elzem soruları tartışmaya açıyor.",
+        "bookSkin" : "Ciltli",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
     },
     
     {
         "book" : "Plasebo",
         "author" : "Dr. Joe Dispenza",
-        "bookPage" : "200",
-        "about" : "Sonra doldurulacak",
+        "bookPage" : "349",
+        "about" : "Plasebo Sensin , okuyucularına sağlıklı ve kaliteli bir yaşam için mucizeleri nasıl gerçekleştirebileceğinze ilişkin harika bir kılavuz oluyor. - Dr. Christine Northrup , Womens Bodies , Women's Women's Wisdom kitaplarıyla New York Times'ın en çok satan yazarı. Şöyle diyor ; 'Zihniniz , başarınız ya da başarısızlığınız açısından inanılmaz derecede önemlidir... Plasebo Sensin , elinizdeki en önemli kaynağınızı güçlü bir şekilde keşfetmenizi sağlıyor e genel olarak tüm alanlardaki başarınız için sizi destekliyor. Dr. Dispenza'nın bilgiyi hepimizin faydalanabileceği şekilde sunuş arzına hayranım.',
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102204.jpg"   
     },
@@ -20,8 +36,8 @@
     {
         "book" : "Yanılmak Güzeldir",
         "author" : "Wendelin Van Drannen",
-        "bookPage" : "200",
-        "about" : "Sonra doldurulacak",
+        "bookPage" : "299",
+        "about" : "Yanılmak güzeldir iki anlatıcılı bir aşk romanıdır. Julie , Bryce'ı ilk gördüğünde ona tutulur. Bryce , Julie'yi ilk gördüğündeyse ondan kaçar. Bu olay ikinci sınıftayken olur ama yedinci sınıfa gelene kadar pek fazla bir şey değişmeyecektir.",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102228.jpg"
     },
@@ -30,7 +46,7 @@
         "book" : "Benim Adım Messi",
         "author" : "Michael Part",
         "bookPage" : "181",
-        "about" : "Lionel Messi de çocuktu... Büyüme hormonu yeterince çalışmıyordu ama o, ne çok sevdiği futoboldan ne de babasının beş kuralından vazgeçti: Nezaket , dürüstlük , azim , kendine hakim olmak ve boyun eğmemek... Bu kitapta Messi'nin , ailesinin sevgisi ve fedakarlığı sayesinde nasıl Barselona futbol takımının ve dünyanın bir numaralı futbolcusuna dönüştüğünü okuyacaksınız.",
+        "about" : "Lionel Messi de çocuktu... Büyüme hormonu yeterince çalışmıyordu ama o, ne çok sevdiği futoboldan ne de babasının beş kuralından vazgeçti: Nezaket , dürüstlük , azim , kendine hakim olmak ve boyun eğmemek... Bu kitapta Messi'nin , ailesinin sevgisi ve fedakarlığı sayesinde nasıl Barselona futbol takımının ve dünyanın bir numaralı futbolcusuna dönüştüğünü okuyacaksınız.",    
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102243.jpg"
     },
@@ -38,24 +54,24 @@
     {
         "book" : "Dorian Gray'in Portresi",
         "author" : "Oscar Wilde",
-        "bookPage" : "200",
-        "about" : "Sonra doldurulacak",
+        "bookPage" : "258",
+        "about" : "Oscar Wilde (1854 - 1900): İrlandalı dahi yazar. Victoria Dönemi'nde edebi zekası , ince alaycılığı ve sıradışı yaşantısıyla 19. yüzyıl estetizm hareketinin britanya'daki en tanınmış temsilcisi haline geldi. Şiir , öykü ve oyunlarının yanı sıra Dorian Gray'in Portresi eseriyle ün kazandı. ",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102302.jpg"
     },
     {
-        "book" : "Homo Deus",
+        "book" : "Homo Sapiens",
         "author" : "Yuval Noah Harari",
-        "bookPage" : "200",
-        "about" : "Sonra doldurulacak",
+        "bookPage" : "408",
+        "about" : "100 Bin yıl önce yeryüzü'nde en az altı farklı insan türü vardı. Günümüzdeyse sadece homo sapiensler var. Diğerlerinin başına ne geldi ve bize ne olacak?",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230517_094401.jpg"
     },
     {
-        "book" : "Homo Sapiens",
+        "book" : "homo Deus",
         "author" : "Yuval Noah Harari",
-        "bookPage" : "200",
-        "about" : "Sonra doldurulacak",
+        "bookPage" :"415",
+        "about" : "Hayvanlardan tanrılara sapiens kitabıyla insan türünün dünyaya nasıl egemen olduğunu anlatan harari , homo deus'ta çarpıcı öngörüleriyle yarınımızı ele alıyor. İnsanlığın ölümsüzlük , mutluluk ve tanrısallık peşindeki yolculuğunu bilim , tarih ve felsefe ışığında incelediği bu çalışmasında, insanın bambaşka bir türe , Homo deus'a evrildiği bir gelecek kurguluyor.",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230517_094433.jpg"
     }
