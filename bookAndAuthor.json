@@ -2,40 +2,61 @@
     {
         "book" : "21. Yüzyıl için 21 Ders",
         "author" : "Yuval Noah Harari",
+        "bookPage" : "200",
+        "about" : "Sonra doldurulacak",
+        "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
     },
     
     {
         "book" : "Plasebo",
         "author" : "Dr. Joe Dispenza",
+        "bookPage" : "200",
+        "about" : "Sonra doldurulacak",
+        "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102204.jpg"   
     },
     
     {
         "book" : "Yanılmak Güzeldir",
         "author" : "Wendelin Van Drannen",
+        "bookPage" : "200",
+        "about" : "Sonra doldurulacak",
+        "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102228.jpg"
     },
     
     {
         "book" : "Benim Adım Messi",
         "author" : "Michael Part",
+        "bookPage" : "200",
+        "about" : "Sonra doldurulacak",
+        "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102243.jpg"
     },
     
     {
         "book" : "Dorian Gray'in Portresi",
         "author" : "Oscar Wilde",
+        "bookPage" : "200",
+        "about" : "Sonra doldurulacak",
+        "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102302.jpg"
     },
     {
         "book" : "Homo Deus",
         "author" : "Yuval Noah Harari",
+        "bookPage" : "200",
+        "about" : "Sonra doldurulacak",
+        "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230517_094401.jpg"
     },
     {
         "book" : "Homo Sapiens",
         "author" : "Yuval Noah Harari",
+        "bookPage" : "200",
+        "about" : "Sonra doldurulacak",
+        "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230517_094433.jpg"
     }
 ]
