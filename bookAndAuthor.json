@@ -3,7 +3,7 @@
         "book" : "Her Şiir Bir Vaiz",
         "author" : "Kerem Önder",
         "bookPage" : "157",
-        "about" : "Kim olursan ol , bu dünyada yaşayan , EN BÜYÜK olanın hilafetini taşıyan. Rakamların ve makamların ötesinde ulaşılmaya çalışılan, En uzun yolun yolcusu edilmişse eğer; Meleklerin bile imrendiği bir yere gitmeli insan... Herkes 'Biliyorum' diyebilir. Ama herkes , ' Yapıyorum' diyemez. Yapmayı istemeyi bırak ve yap artık!",
+        "about" : "Kim olursan ol , bu dünyada yaşayan , EN BÜYÜK olanın hilafetini taşıyan. Rakamların ve makamların ötesinde ulaşılmaya çalışılan, En uzun yolun yolcusu edilmişse eğer; Meleklerin bile imrendiği bir yere gitmeli insan... Herkes 'Biliyorum' diyebilir. Ama herkes , Yapıyorum diyemez. Yapmayı istemeyi bırak ve yap artık!",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
     },
@@ -27,7 +27,7 @@
         "book" : "Plasebo",
         "author" : "Dr. Joe Dispenza",
         "bookPage" : "349",
-        "about" : "Plasebo Sensin , okuyucularına sağlıklı ve kaliteli bir yaşam için mucizeleri nasıl gerçekleştirebileceğinze ilişkin harika bir kılavuz oluyor. - Dr. Christine Northrup , Womens Bodies , Women's Women's Wisdom kitaplarıyla New York Times'ın en çok satan yazarı. Şöyle diyor ; 'Zihniniz , başarınız ya da başarısızlığınız açısından inanılmaz derecede önemlidir... Plasebo Sensin , elinizdeki en önemli kaynağınızı güçlü bir şekilde keşfetmenizi sağlıyor e genel olarak tüm alanlardaki başarınız için sizi destekliyor. Dr. Dispenza'nın bilgiyi hepimizin faydalanabileceği şekilde sunuş arzına hayranım.'",
+        "about" : "Plasebo Sensin , okuyucularına sağlıklı ve kaliteli bir yaşam için mucizeleri nasıl gerçekleştirebileceğinze ilişkin harika bir kılavuz oluyor. - Dr. Christine Northrup , Womens Bodies , Women's Women's Wisdom kitaplarıyla New York Times'ın en çok satan yazarı. Şöyle diyor ; 'Zihniniz , başarınız ya da başarısızlığınız açısından inanılmaz derecede önemlidir... Plasebo Sensin , elinizdeki en önemli kaynağınızı güçlü bir şekilde keşfetmenizi sağlıyor e genel olarak tüm alanlardaki başarınız için sizi destekliyor. Dr. Dispenza'nın bilgiyi hepimizin faydalanabileceği şekilde sunuş arzına hayranım.",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102204.jpg"   
     },
@@ -40,21 +40,19 @@
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102228.jpg"
     },
-    
     {
         "book" : "Benim Adım Messi",
         "author" : "Michael Part",
         "bookPage" : "181",
-        "about" : "Lionel Messi de çocuktu... Büyüme hormonu yeterince çalışmıyordu ama o, ne çok sevdiği futoboldan ne de babasının beş kuralından vazgeçti: Nezaket , dürüstlük , azim , kendine hakim olmak ve boyun eğmemek... Bu kitapta Messi'nin , ailesinin sevgisi ve fedakarlığı sayesinde nasıl Barselona futbol takımının ve dünyanın bir numaralı futbolcusuna dönüştüğünü okuyacaksınız.",    
+        "about" : "Lionel Messi de çocuktu... Büyüme hormonu yeterince çalışmıyordu ama o, ne çok sevdiği futoboldan ne de babasının beş kuralından vazgeçti: Nezaket , dürüstlük , azim , kendine hakim olmak ve boyun eğmemek... Bu kitapta Messi'nin , ailesinin sevgisi ve fedakarlığı sayesinde nasıl Barselona futbol takımının ve dünyanın bir numaralı futbolcusuna dönüştüğünü okuyacaksınız.",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102243.jpg"
     },
-    
     {
         "book" : "Dorian Gray'in Portresi",
         "author" : "Oscar Wilde",
         "bookPage" : "258",
-        "about" : "Oscar Wilde (1854 - 1900): İrlandalı dahi yazar. Victoria Dönemi'nde edebi zekası , ince alaycılığı ve sıradışı yaşantısıyla 19. yüzyıl estetizm hareketinin britanya'daki en tanınmış temsilcisi haline geldi. Şiir , öykü ve oyunlarının yanı sıra Dorian Gray'in Portresi eseriyle ün kazandı. ",
+        "about" : "Oscar Wilde 1854 - 1900: İrlandalı dahi yazar. Victoria Dönemi'nde edebi zekası , ince alaycılığı ve sıradışı yaşantısıyla 19. yüzyıl estetizm hareketinin britanya'daki en tanınmış temsilcisi haline geldi. Şiir , öykü ve oyunlarının yanı sıra Dorian Gray'in Portresi eseriyle ün kazandı. ",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102302.jpg"
     },
