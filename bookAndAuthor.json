@@ -3,7 +3,7 @@
         "book" : "Her Şiir Bir Vaiz",
         "author" : "Kerem Önder",
         "bookPage" : "157",
-        "about" : "Kim olursan ol , bu dünyada yaşayan , EN BÜYÜK olanın hilafetini taşıyan. Rakamların ve makamların ötesinde ulaşılmaya çalışılan, En uzun yolun yolcusu edilmişse eğer; Meleklerin bile imrendiği bir yere gitmeli insan... Herkes 'Biliyorum' diyebilir. Ama herkes , ' Yapıyorum' diyemez. Yapmayı istemeyi bırak ve yap artık!"
+        "about" : "Kim olursan ol , bu dünyada yaşayan , EN BÜYÜK olanın hilafetini taşıyan. Rakamların ve makamların ötesinde ulaşılmaya çalışılan, En uzun yolun yolcusu edilmişse eğer; Meleklerin bile imrendiği bir yere gitmeli insan... Herkes 'Biliyorum' diyebilir. Ama herkes , ' Yapıyorum' diyemez. Yapmayı istemeyi bırak ve yap artık!",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
     },
@@ -11,7 +11,7 @@
         "book" : "Bedava Nasihat ister misin?",
         "author" : "Kerem Önder",
         "bookPage" : "176",
-        "about" : "Işıklar açılınca hamam böcekleri kaçar, fareler kaçar. Ama insanlar kalır. Çünkü aydınlıkta güvende hissederler. İlim ışığı da hayvan tabiatlı insanları ortamdan kaçırmak için bire bir ilaçtır. Oysa aynı ışık , insalığını kaybetmemiş bireylerin kalpleri'ndeki sakinet ve güvenini arttırır..."
+        "about" : "Işıklar açılınca hamam böcekleri kaçar, fareler kaçar. Ama insanlar kalır. Çünkü aydınlıkta güvende hissederler. İlim ışığı da hayvan tabiatlı insanları ortamdan kaçırmak için bire bir ilaçtır. Oysa aynı ışık , insalığını kaybetmemiş bireylerin kalpleri'ndeki sakinet ve güvenini arttırır...",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
     },
@@ -23,12 +23,11 @@
         "bookSkin" : "Ciltli",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102147.jpg"
     },
-    
     {
         "book" : "Plasebo",
         "author" : "Dr. Joe Dispenza",
         "bookPage" : "349",
-        "about" : "Plasebo Sensin , okuyucularına sağlıklı ve kaliteli bir yaşam için mucizeleri nasıl gerçekleştirebileceğinze ilişkin harika bir kılavuz oluyor. - Dr. Christine Northrup , Womens Bodies , Women's Women's Wisdom kitaplarıyla New York Times'ın en çok satan yazarı. Şöyle diyor ; 'Zihniniz , başarınız ya da başarısızlığınız açısından inanılmaz derecede önemlidir... Plasebo Sensin , elinizdeki en önemli kaynağınızı güçlü bir şekilde keşfetmenizi sağlıyor e genel olarak tüm alanlardaki başarınız için sizi destekliyor. Dr. Dispenza'nın bilgiyi hepimizin faydalanabileceği şekilde sunuş arzına hayranım.',
+        "about" : "Plasebo Sensin , okuyucularına sağlıklı ve kaliteli bir yaşam için mucizeleri nasıl gerçekleştirebileceğinze ilişkin harika bir kılavuz oluyor. - Dr. Christine Northrup , Womens Bodies , Women's Women's Wisdom kitaplarıyla New York Times'ın en çok satan yazarı. Şöyle diyor ; 'Zihniniz , başarınız ya da başarısızlığınız açısından inanılmaz derecede önemlidir... Plasebo Sensin , elinizdeki en önemli kaynağınızı güçlü bir şekilde keşfetmenizi sağlıyor e genel olarak tüm alanlardaki başarınız için sizi destekliyor. Dr. Dispenza'nın bilgiyi hepimizin faydalanabileceği şekilde sunuş arzına hayranım.'",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230515_102204.jpg"   
     },
