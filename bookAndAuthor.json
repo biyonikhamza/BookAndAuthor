@@ -71,5 +71,13 @@
         "about" : "Hayvanlardan tanrılara sapiens kitabıyla insan türünün dünyaya nasıl egemen olduğunu anlatan harari , homo deus'ta çarpıcı öngörüleriyle yarınımızı ele alıyor. İnsanlığın ölümsüzlük , mutluluk ve tanrısallık peşindeki yolculuğunu bilim , tarih ve felsefe ışığında incelediği bu çalışmasında, insanın bambaşka bir türe , Homo deus'a evrildiği bir gelecek kurguluyor.",
         "bookSkin" : "Ciltsiz",
         "image" : "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20230517_094433.jpg"
+    },
+    {
+        "book": "Düşün ve Zengin Ol",
+        "author": "Napoleon Hill",
+        "bookPage": "226",
+        "about": "Napoleon Hill, Düşün ve Zengin Ol'u 1937'de , Henry Ford, Thomas Edison gibi birçok tanınmış ismin de bulunduğu çok başarılı 500 insan üzerinde yaptığı 25 yıllık bir araştırmanın sonucunda yazmıştır. Dünyanın en çok satan kitaplarından olan Düşün ve Zengin Ol'u şu anda elinizde tutuyor olmanız bir tesadüf mü? Bu kitapta yer alan 13 adımlık formul ile başarıya giden yolda sırrı kullanmakta ustalaşacaksınız. Bir kez okumak kesinlikle yetmez!...",
+        "bookSkin": "Ciltsiz",
+        "image": "https://raw.githubusercontent.com/biyonikhamza/BookSaver/main/images/IMG_20240301_150722.jpg"
     }
 ]
